@@ -5,6 +5,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Designer](https://img.shields.io/badge/Design-Quantum%20Arena-blueviolet?style=for-the-badge)
 
+### 🔗 [Live Application Link](https://aayushgaut1.github.io/SportsAnalytics/)
+
 **SportsAlytics** is a professional-grade, data-driven sports management platform designed for elite performance analysis. It combines a state-of-the-art "Quantum Arena" aesthetic with a robust role-aware analytics engine to provide unprecedented insights into athlete performance across 9 major sports.
 
 ---
